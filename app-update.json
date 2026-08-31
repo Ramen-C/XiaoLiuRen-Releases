@@ -1,0 +1,15 @@
+{
+  "versionCode": 2,
+  "versionName": "2.1",
+  "title": "命盘、品牌与更新体验完善",
+  "notes": [
+    "命盘按本命、大运、流年流月分开查看",
+    "修正天地人三盘的排布与六亲次序",
+    "流年虚岁支持直接输入和快速拖动",
+    "新增启动自动检查与设置页手动检查更新",
+    "软件更名为六宫掌诀，并换用三指六宫自适应图标",
+    "移除常驻介绍卡，必要引导改为首次进入时的短动画"
+  ],
+  "downloadUrl": "https://github.com/Ramen-C/XiaoLiuRen-Releases/releases/latest/download/xiaoliuren.apk",
+  "pageUrl": "https://github.com/Ramen-C/XiaoLiuRen-Releases/releases/latest"
+}
