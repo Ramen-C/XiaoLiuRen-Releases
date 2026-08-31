@@ -1,11 +1,13 @@
 {
-  "versionCode": 3,
-  "versionName": "2.1.1",
-  "title": "更新线路稳定性修复",
+  "versionCode": 4,
+  "versionName": "2.2",
+  "title": "命盘校勘与界面重排",
   "notes": [
-    "更新清单改用多条公开线路，主线路不可用时自动切换",
-    "缩短单条线路超时，避免网络异常时长时间等待",
-    "修正部分 2.1 安装包无法检查更新的问题"
+    "按原书分开绘制天盘与地盘，删除原书没有的人盘",
+    "修正本命地支、两盘自身、五星起点与各自结论",
+    "增加男命女命选择，并补回自身临六宫的原文断语",
+    "本命、大运、流年流月分栏，流月选择移到流月盘上方",
+    "岁数支持直接输入和拖动，并修正整十岁流年落宫"
   ],
   "downloadUrl": "https://github.com/Ramen-C/XiaoLiuRen-Releases/releases/latest/download/xiaoliuren.apk",
   "pageUrl": "https://github.com/Ramen-C/XiaoLiuRen-Releases/releases/latest"
