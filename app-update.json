@@ -1,13 +1,10 @@
 {
-  "versionCode": 4,
-  "versionName": "2.2",
-  "title": "命盘校勘与界面重排",
+  "versionCode": 5,
+  "versionName": "2.2.1",
+  "title": "姓名婚姻彩蛋",
   "notes": [
-    "按原书分开绘制天盘与地盘，删除原书没有的人盘",
-    "修正本命地支、两盘自身、五星起点与各自结论",
-    "增加男命女命选择，并补回自身临六宫的原文断语",
-    "本命、大运、流年流月分栏，流月选择移到流月盘上方",
-    "岁数支持直接输入和拖动，并修正整十岁流年落宫"
+    "加入一处姓名起课与婚姻感情门类联动的小彩蛋",
+    "彩蛋明确标注为趣味内容，不改动底层排盘与原书断语"
   ],
   "downloadUrl": "https://github.com/Ramen-C/XiaoLiuRen-Releases/releases/latest/download/xiaoliuren.apk",
   "pageUrl": "https://github.com/Ramen-C/XiaoLiuRen-Releases/releases/latest"
