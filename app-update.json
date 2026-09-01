@@ -1,10 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "2.2.1",
-  "title": "姓名婚姻彩蛋",
+  "versionCode": 6,
+  "versionName": "2.2.2",
+  "title": "体验细节优化",
   "notes": [
-    "加入一处姓名起课与婚姻感情门类联动的小彩蛋",
-    "彩蛋明确标注为趣味内容，不改动底层排盘与原书断语"
+    "优化部分结果页的文案与展示细节"
   ],
   "downloadUrl": "https://github.com/Ramen-C/XiaoLiuRen-Releases/releases/latest/download/xiaoliuren.apk",
   "pageUrl": "https://github.com/Ramen-C/XiaoLiuRen-Releases/releases/latest"
