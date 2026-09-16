@@ -1,9 +1,14 @@
 {
-  "versionCode": 6,
-  "versionName": "2.2.2",
-  "title": "体验细节优化",
+  "versionCode": 9,
+  "versionName": "2.4.1",
+  "title": "农历日历、图片记录与阅读优化",
   "notes": [
-    "优化部分结果页的文案与展示细节"
+    "起课结果中“算得”“书断”及其依据说明使用与结论一致的字号",
+    "指定时刻使用应用内日历，每个日期下显示对应农历，支持快速跳转年月",
+    "命盘直接填写农历生日、生年和时辰",
+    "问事、命盘、抽签和历史记录支持长图预览、保存与多图分享",
+    "分享可选结果摘要或完整记录，并自行决定是否附上复盘笔记",
+    "较长记录按文字行分页，笔记未保存时增加离开提醒"
   ],
   "downloadUrl": "https://github.com/Ramen-C/XiaoLiuRen-Releases/releases/latest/download/xiaoliuren.apk",
   "pageUrl": "https://github.com/Ramen-C/XiaoLiuRen-Releases/releases/latest"
